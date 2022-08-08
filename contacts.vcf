@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Sebastián García Madrid
+N:García Madrid;Sebastián ;;;
+item1.EMAIL;TYPE=INTERNET:sgmadrid@inm.gov.co
+item1.X-ABLabel:
+item2.TEL:310 3761078
+item2.X-ABLabel:
+item3.ORG:INM
+item3.X-ABLabel:
+item4.TITLE:Contratista
+item4.X-ABLabel:
+CATEGORIES:myContacts
+END:VCARD
